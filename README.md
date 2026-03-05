@@ -89,7 +89,7 @@ A Blender addon providing intelligent cube distribution in grids and mesh mergin
 **Method 1: Quick Test**
 1. Open Blender → Scripting workspace
 2. Open `cube_mesh_addon.py` in text editor
-3. Click **▶ Run Script**
+3. Click **Run Script**
 4. Press **N** → Click **"Task"** tab
 
 **Method 2: Permanent Install**
@@ -107,7 +107,7 @@ A Blender addon providing intelligent cube distribution in grids and mesh mergin
 
 ---
 
-## 💻 System Requirements
+## System Requirements
 
 ### Task 1: Binary Tree Package
 - **Python:** 3.7 or higher
@@ -167,7 +167,7 @@ python main.py
 
 ---
 
-## 📝 Notes
+## Notes
 
 - Both tasks are fully functional and tested
 - All required and bonus features implemented
